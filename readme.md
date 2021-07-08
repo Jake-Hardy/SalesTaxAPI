@@ -6,7 +6,7 @@ This API exposes a single `GET` endpoint which accepts query string arguments (a
 
 Docker is the easiest way to stand up the API and associated database.
 
-- After cloning the application, simply running `docker-compose up --build` will build and run the API, as well as start the database and seed it with data.
+- After cloning the application, simply running `docker-compose up --build` from the `NcSalesTaxCalculatorApi` directory will build and run the API, as well as start the database and seed it with data.
 
 - The following cURL request can be used to test the API:
 
